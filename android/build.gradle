@@ -38,4 +38,5 @@ repositories {
 dependencies {
   //noinspection GradleDynamicVersion
   api 'com.facebook.react:react-native:+'
+  api "androidx.appcompat:appcompat:1.0.2"
 }
